@@ -1,0 +1,43 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: brown;
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: courier;
+    font-size: 160%;
+    text-align: center;
+}
+
+.form {
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: brown;
+    text-align: center;
+}
